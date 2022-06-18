@@ -36,7 +36,7 @@ Visit our guide *here (coming soon)* on how to link ChronesIO projects into your
 <page obj="My::Name::Space::MyPage">
     <vstack>
         <button name="MyButton1" text="Hello1" clicked="*"/>
-        <button name="MyButton2" text="Hello2" clicked="IWasClicked"/>
+        <button name="MyButton2" text="Hello2" clicked="*IWasClicked"/>
         <button name="MyButton3" text="Hello3" clicked="Function::Somewhere"/>
         <hstack>
             <text text="In the same "/>
