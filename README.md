@@ -24,7 +24,7 @@ target_link_libraries(lrn-gen PRIVATE pugixml pugixml::static pugixml::pugixml)
 find_package(fmt CONFIG REQUIRED)
 target_link_libraries(lrn-gen PRIVATE fmt::fmt)
 ```
-Visit our guide *here (coming soon)* on how to link ChronesIO projects into your project.
+Visit our guide *here (coming soon)* on how to link ChronesIO libraries into your project.
 
 ---
 ### Functionality
